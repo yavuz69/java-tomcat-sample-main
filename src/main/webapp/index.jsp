@@ -8,7 +8,7 @@
   
   <h3> You are doing good work ... </h3>
   
-  <h2> yavuzzzz devops engineer </h2> 
+  <h2> yavuz devops engineer </h2> 
   
   <h1> Latest revision </h1>  
 </body>
